@@ -1,0 +1,1 @@
+This repository contains solutions to daily Data Structures and Algorithms (DSA) problems that I solve in C++. The goal is to consistently improve problem-solving skills and strengthen fundamental concepts.
