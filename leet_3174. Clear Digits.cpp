@@ -12,7 +12,7 @@ class Solution {
     
             for(int i = 0; i < s.length(); i++) {
                 char c = s[i];
-                if(c>='0' and c<='9') {
+                if(c>='0' && c<='9') {
                      res.pop_back();
                 } 
                 else {
